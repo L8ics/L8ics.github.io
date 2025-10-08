@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   width="500"
+   height="200"
+   viewBox="0 0 132.29167 52.916667"
+   version="1.1"
+   id="svg1"
+   inkscape:version="1.4.2 (ebf0e940d0, 2025-05-08)"
+   sodipodi:docname="logo.svg"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <sodipodi:namedview
+     id="namedview1"
+     pagecolor="#ffffff"
+     bordercolor="#999999"
+     borderopacity="1"
+     inkscape:showpageshadow="2"
+     inkscape:pageopacity="0"
+     inkscape:pagecheckerboard="0"
+     inkscape:deskcolor="#4f715c"
+     inkscape:document-units="mm"
+     inkscape:zoom="1.4645623"
+     inkscape:cx="198.01138"
+     inkscape:cy="217.81252"
+     inkscape:window-width="1920"
+     inkscape:window-height="1043"
+     inkscape:window-x="0"
+     inkscape:window-y="0"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="layer1" />
+  <defs
+     id="defs1">
+    <rect
+       x="76.284138"
+       y="50.695155"
+       width="463.1339"
+       height="183.50006"
+       id="rect1" />
+  </defs>
+  <g
+     inkscape:label="Layer 1"
+     inkscape:groupmode="layer"
+     id="layer1">
+    <text
+       xml:space="preserve"
+       transform="matrix(0.26458333,0,0,0.26458333,-15.227183,-8.9495826)"
+       id="text1"
+       style="font-weight:bold;font-size:85.3333px;line-height:1;font-family:Sans;-inkscape-font-specification:'Sans Bold';text-align:justify;text-decoration-color:#000000;writing-mode:lr-tb;direction:ltr;white-space:pre;shape-inside:url(#rect1);display:inline;fill:#333333;stroke-width:0.1;-inkscape-stroke:none;paint-order:stroke fill markers"><tspan
+         x="76.283203"
+         y="118.21177"
+         id="tspan2"><tspan
+           style="font-weight:normal;font-family:'LT Sonoma';-inkscape-font-specification:'LT Sonoma';fill:#f2f2f2"
+           id="tspan1">PAW
+</tspan></tspan><tspan
+         x="76.283203"
+         y="204.08553"
+         id="tspan4"><tspan
+           style="font-weight:normal;font-family:'LT Sonoma';-inkscape-font-specification:'LT Sonoma';fill:#f2f2f2"
+           id="tspan3">FORMAT</tspan></tspan></text>
+  </g>
+</svg>
