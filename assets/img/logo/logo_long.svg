@@ -2,14 +2,14 @@
 <!-- Created with Inkscape (http://www.inkscape.org/) -->
 
 <svg
-   width="500"
-   height="200"
-   viewBox="0 0 132.29167 52.916667"
+   width="600"
+   height="120"
+   viewBox="0 0 158.75 31.75"
    version="1.1"
    id="svg1"
    inkscape:version="1.4.2 (ebf0e940d0, 2025-05-08)"
-   sodipodi:docname="logo.svg"
-   inkscape:export-filename="logo.png"
+   sodipodi:docname="logo_long.svg"
+   inkscape:export-filename="logo_long.png"
    inkscape:export-xdpi="96"
    inkscape:export-ydpi="96"
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
@@ -26,22 +26,46 @@
      inkscape:pagecheckerboard="0"
      inkscape:deskcolor="#4f715c"
      inkscape:document-units="mm"
-     inkscape:zoom="1.4645623"
-     inkscape:cx="198.01138"
-     inkscape:cy="217.81252"
+     inkscape:zoom="2.0712039"
+     inkscape:cx="239.23285"
+     inkscape:cy="127.94491"
      inkscape:window-width="1920"
-     inkscape:window-height="1043"
+     inkscape:window-height="1011"
      inkscape:window-x="0"
      inkscape:window-y="0"
      inkscape:window-maximized="1"
-     inkscape:current-layer="layer1" />
+     inkscape:current-layer="layer1"
+     showguides="true"
+     showgrid="false">
+    <inkscape:grid
+       id="grid1"
+       units="mm"
+       originx="0"
+       originy="0"
+       spacingx="1"
+       spacingy="1"
+       empcolor="#0099e5"
+       empopacity="0.30196078"
+       color="#0099e5"
+       opacity="0.14901961"
+       empspacing="5"
+       enabled="true"
+       visible="false" />
+    <sodipodi:guide
+       position="0,15.875"
+       orientation="0,1"
+       id="guide1"
+       inkscape:locked="false"
+       inkscape:label=""
+       inkscape:color="rgb(0,134,229)" />
+  </sodipodi:namedview>
   <defs
      id="defs1">
     <rect
-       x="76.284138"
-       y="50.695155"
-       width="463.1339"
-       height="183.50006"
+       x="76.284142"
+       y="50.695156"
+       width="521.85455"
+       height="85.859962"
        id="rect1" />
   </defs>
   <g
@@ -50,19 +74,13 @@
      id="layer1">
     <text
        xml:space="preserve"
-       transform="matrix(0.26458333,0,0,0.26458333,-15.227183,-8.9495826)"
+       transform="matrix(0.26458333,0,0,0.26458333,-14.57331,-7.4996357)"
        id="text1"
        style="font-weight:bold;font-size:85.3333px;line-height:1;font-family:Sans;-inkscape-font-specification:'Sans Bold';text-align:justify;text-decoration-color:#000000;writing-mode:lr-tb;direction:ltr;white-space:pre;shape-inside:url(#rect1);display:inline;fill:#333333;stroke-width:0.1;-inkscape-stroke:none;paint-order:stroke fill markers"><tspan
          x="76.283203"
          y="118.21177"
-         id="tspan2"><tspan
+         id="tspan3"><tspan
            style="font-weight:normal;font-family:'LT Sonoma';-inkscape-font-specification:'LT Sonoma';fill:#f2f2f2"
-           id="tspan1">PAW
-</tspan></tspan><tspan
-         x="76.283203"
-         y="204.08553"
-         id="tspan4"><tspan
-           style="font-weight:normal;font-family:'LT Sonoma';-inkscape-font-specification:'LT Sonoma';fill:#f2f2f2"
-           id="tspan3">FORMAT</tspan></tspan></text>
+           id="tspan1">PAW FORMAT</tspan></tspan></text>
   </g>
 </svg>
